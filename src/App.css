@@ -1,0 +1,31 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#map {
+  height: 1000px;
+}
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+.login-wrap {
+  display: flex;
+  justify-content: center;
+  /* background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(91, 91, 204, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  ); */
+}
+.Login {
+  max-width: 100vh;
+  /* background: rgba(97, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18); */
+}
