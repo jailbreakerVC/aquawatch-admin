@@ -21,6 +21,7 @@ export default function Login() {
               },
             },
           }}
+          redirectTo="https://aquawatch-admin.vercel.app/"
         />
       </div>
     </div>
